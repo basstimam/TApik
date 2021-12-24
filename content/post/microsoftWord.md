@@ -5,3 +5,6 @@ draft: false
 weight: 4
 ---
 
+
+Word article!
+![alt](/img/hugo.png

@@ -5,3 +5,5 @@ draft: false
 weight : 1
 ---
 
+Hardware article!
+![alt](/img/hugo.png)
