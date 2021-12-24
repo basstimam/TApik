@@ -7,4 +7,4 @@ weight : 2
 
 
 Software article!
-![alt](/img/hugo.png
+![alt](/img/hugo.png)

@@ -7,4 +7,4 @@ weight: 5
 
 
 Excel article!
-![alt](/img/hugo.png
+![alt](/img/hugo.png)
