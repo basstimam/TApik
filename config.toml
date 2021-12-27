@@ -68,17 +68,17 @@ tocopen = false
   Title = "Pengenalan Ilmu Komputer"
   Content = "Blog yang ditujukan untuk Tugas Akhir mata kuliah Pengenalan Ilmu Komputer, beranggotakan Muhammad Imam Fahrudin(065121077) Raihan Ramadhan(065121075) Zahra Zaskia Putri Maharani(065121072)"
 
-  [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/"
+  #[[params.socialIcons]]
+  #name = "twitter"
+  #url = "https://twitter.com/"
 
-  [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
+  #[[params.socialIcons]]
+  #name = "stackoverflow"
+  #url = "https://stackoverflow.com"
 
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/"
+  #[[params.socialIcons]]
+  #name = "github"
+  #url = "https://github.com/"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -94,10 +94,10 @@ SiteVerificationTag = "XYZabc"
   hiddenInList = true
   hiddenInSingle = true
 
-  [params.editPost]
-  URL = "https://github.com/<path_to_repo>/content"
-  Text = "Suggest Changes"
-  appendFilePath = true
+  #[params.editPost]
+  #URL = "https://github.com/<path_to_repo>/content"
+  #Text = "Suggest Changes"
+  #appendFilePath = true
 
   [params.fuseOpts]
   isCaseSensitive = false
