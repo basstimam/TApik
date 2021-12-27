@@ -73,6 +73,10 @@ tocopen = false
   url = "https://twitter.com/intent/tweet?url=https://kel9pik.netlify.app/&text="
 
   [[params.socialIcons]]
+  name = "reddit"
+  url = "https://reddit.com/submit?url=https://kel9pik.netlify.app/&title="
+
+   [[params.socialIcons]]
   name = "facebook"
   url = "https://www.facebook.com/sharer/sharer.php?u=https://kel9pik.netlify.app/"
 
