@@ -34,14 +34,33 @@ Dengan fitur ini kita tak perlu lagi multitasking melalui browser lain karena me
 3.  Klik track changes untuk melacak perubahan yang dilakukan oleh teman Anda. 
 
 
+**Page Number**
+*  Klik menu Insert, Page Number 
+*  Pilih Top of Page jika ingin memberikan penomoran pada bagian atas halaman, Bottom of Page jika ingin memberikan penomoran pada bagian bawah halaman, Page Margins jika ingin memberikan penomoran pada bagian samping halaman.
+*  Klik Format Page Numbers untuk melakukan pengubahan format penomoran. 
+
+**Daftar Isi Otomatis**
+1. Blok **judul** atau **sub judul** yang ada pada dokumen.
+
+2. Pilih tipe heading yang diinginkan pada tab **Home**. Kamu bisa pilih **Heading 1** untuk **judul** dan **Heading 2** untuk **sub judul**
+
+3. Atur style pada heading yang dipilih dengan cara klik kanan pada tipe heading kemudian pilih **Modify**
+
+4. Siapkan halaman khusus untuk daftar isi, 
+dengan memilih tab **Insert > Blank Page**
+
+5. Masukkan daftar isi secara otomatis melalui tab **References**, kemudian pilih **Table of Contents**, dan pilih bentuk daftar isi yang diinginkan
+
+6. Setelah daftar isi jadi, kita bisa mengedit atau mengupdate bila ada perubahan pada daftar isi dengan mengklik **update table** kemudian memilih **update page number only** atau **update entire table** sesuai kebutuhan.
+
+**Daftar Pustaka**
+
+1. Pilih text yang akan dibuat menjorok ke dalam.
+2. Geser bagian bawah Ruler secukupnya.
+3. Maka text yang melebihi satu baris akan menjorok ke dalam sesuai jarak Ruler.
 
 
 
-
-
-
-
-Kita akan mempelajari dua fitur pada microsoft word yaitu:
 
 * Mail merge
 
