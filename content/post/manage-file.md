@@ -48,3 +48,29 @@ Untuk menyembunyikan folder atau files bisa melakukan cara berikut:
 
 3. Pilih **Atur kata sandi** atau **Set Password** kemudian enter password lalu klik **Ok**
 
+
+**Fungsi Manajemen File**
+
+* Memudahkan cara kerja atau mekanisme pemakaian file secara bersamaan.
+
+* Kemudahan dalam membuat, mengedit dan menghapus file.
+
+* Kemudahan dalam melakukan Backup dan Recovery untuk antisipasi kehilangan file kecelakaan atau upaya orang lain untuk merusak atau menghancurkan file.
+
+* Dapat disimpan dengan Aman dan Rahasia pada lingkungan yang sensitif
+
+
+**Cara Manajemen File Yang Baik**
+
+* Membangun sistem “Document Filing” atau pengarsipan dan juga penamaannya.
+
+* Mulai pikirkan soal Konversi File sekaligus.
+
+* Berhenti menggunakan converter gratisan.
+
+* Simpan data di lokasi yang sama.
+
+* Shared Documents.
+
+* Data juga bisa disimpan di cloud.
+

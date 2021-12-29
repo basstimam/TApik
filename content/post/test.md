@@ -1,7 +1,7 @@
 ---
 title: "Test"
 date: 2021-12-24T07:05:12+07:00
-draft: False
+draft: true
 name : Test
 author: "IIIII"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "MicrosoftWord"
+title: "Microsoft Word"
 date: 2021-12-24T07:49:41+07:00
 draft: false
 weight: 3
@@ -55,6 +55,21 @@ Drop Cap adalah huruf awal suatu paragraph yang besarnya beberapa baris lebih be
 ![preview](/img/preview.png)
 
 11. Pada gambar kiri adalah sebelum preview dan gambar kanan adalah setelah preview.
+
+**Membuat Drop Cap**
+
+![alt](/img/dropc.png)  ![dropcap](/img/dropc2.png)
+
+1.  Block Text yang ingin dibuat Drop Cap.
+2.  Pada tab **Insert**.
+3.  Pilih **Drop Cap**.
+
+![alt](/img/dropc3.png)
+
+4.  Pilih Dropped untuk membuat huruf pertama selaras dalam paragraph
+
+![alt](/img/dropc4.png)  ![dropcap](/img/dropc5.png)
+Pilih **In Margin** untuk membuat huruf pertama di luar paragraph
 
 
 
