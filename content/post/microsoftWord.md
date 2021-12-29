@@ -6,6 +6,41 @@ weight: 3
 ---
 **Microsoft Word** merupakan program aplikasi dari microsoft office yang biasa digunakan untuk pengelolahan teks, pengelolahan dokumen, laporan dan lain sebagainya.
 
+![lat](/img/shorcut.png)
+
+Gambar diatas merupakan shortcut key untuk microsoft word agar memudahkan penggunaan.
+
+
+![lat](/img/form.png)
+
+**Menghapus semua format**
+
+* Buka tab Home
+* Pilih Clear all formatting
+
+**Fitur yang sering digunakan untuk pembuatan makalah**
+
+* Resourcer
+
+1.  Buka tab Reference
+2.  Pilih Resource
+
+Dengan fitur ini kita tak perlu lagi multitasking melalui browser lain karena memang sudah disediakan oleh Office.
+
+* Comment & Track Changes
+
+1.  Blok paragraf atau kata yang mau diberi komentar
+2.  Aktifkan comment di tab Review >> Comments
+3.  Klik track changes untuk melacak perubahan yang dilakukan oleh teman Anda. 
+
+
+
+
+
+
+
+
+
 Kita akan mempelajari dua fitur pada microsoft word yaitu:
 
 * Mail merge
@@ -69,7 +104,12 @@ Drop Cap adalah huruf awal suatu paragraph yang besarnya beberapa baris lebih be
 4.  Pilih Dropped untuk membuat huruf pertama selaras dalam paragraph
 
 ![alt](/img/dropc4.png)  ![dropcap](/img/dropc5.png)
-Pilih **In Margin** untuk membuat huruf pertama di luar paragraph
+5.  Pilih **In Margin** untuk membuat huruf pertama di luar paragraph
+
+![dropcap](/img/dropc6.png)
+
+6.  Pilih Drop Cap Options untuk mengatur jenis Drop Cap, Font yang digunakan, diturunkan berapa baris, dan jarak dari text.
+
 
 
 
