@@ -66,7 +66,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Pengenalan Ilmu Komputer"
-  Content = "Blog yang ditujukan untuk Tugas Akhir mata kuliah Pengenalan Ilmu Komputer, beranggotakan Muhammad Imam Fahrudin(065121077) Raihan Ramadhan(065121075) Zahra Zaskia Putri Maharani(065121072)"
+  Content = "Blog yang ditujukan untuk Tugas Akhir mata kuliah Pengenalan Ilmu Komputer, beranggotakan Muhammad Imam Fahrudin(065121077) Raihan Ramadian P(065121075) Zahra Zaskia Putri Maharani(065121072)"
 
   [[params.socialIcons]]
   name = "twitter"
