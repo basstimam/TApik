@@ -1,6 +1,6 @@
 ---
 title: "Manajemen File"
-date: 2021-12-24T07:49:27+07:00
+date: 2021-12-25T07:49:27+07:00
 draft: false
 weight: 2
 ---
